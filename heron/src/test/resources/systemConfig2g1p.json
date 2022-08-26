@@ -1,0 +1,26 @@
+{
+  "maxinline": 0,
+  "nodePerGroup": 1,
+  "servicetimeout": 1,
+  "zkHost": "192.168.3.9:2181",
+  "group_members": [
+    {
+      "host": "192.168.4.1",
+      "gid": 0,
+      "role": 3,
+      "port": 9000,
+      "nid": 0
+    },
+    {
+      "host": "192.168.4.1",
+      "gid": 1,
+      "role": 2,
+      "port": 9001,
+      "nid": 0
+    }
+  ],
+  "signalInterval": 5,
+  "queueLength": 5,
+  "polling": true,
+  "debug": true
+}
