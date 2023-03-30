@@ -1,8 +1,8 @@
 # Heron
-Heron is developed as part of a research project on partitioned state machine replication and RDMA.
+Heron is developed as part of a research project on partitioned state machine replication and RDMA.  
 Heron's paper is published at DSN 2023.
 
-Heron: Scalable State Machine Replication on Shared Memory
+Heron: Scalable State Machine Replication on Shared Memory  
 The paper introduces Heron is a state machine replication system that delivers scalable throughput and microsecond latency. 
 Heron achieves scalability through partitioning (sharding) and microsecond latency through a careful design that leverages one-sided RDMA primitives. 
 Heron significantly improves the throughput and latency of applications when compared to message passing-based replicated systems. 
