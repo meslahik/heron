@@ -1,4 +1,4 @@
-# heron
+# Heron
 Heron is developed as part of a research project on partitioned state machine replication and RDMA.
 Heron's paper is published at DSN 2023.
 
